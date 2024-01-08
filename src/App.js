@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './App.css';
 
 async function processReq(text, setMemcode) {
-  const serverAddress = "http://192.168.1.2:5000"
+  const serverAddress = "https://memorycodegeneratorai.onrender.com/"
   try {
     const response = await fetch(serverAddress+'/memcode', {
         method: 'POST',
