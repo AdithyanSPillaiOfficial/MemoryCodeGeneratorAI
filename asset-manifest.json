@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MemoryCodeGeneratorAI/static/css/main.8c2e1c50.css",
+    "main.js": "/MemoryCodeGeneratorAI/static/js/main.aa8c4533.js",
+    "static/js/787.bb5fb9c0.chunk.js": "/MemoryCodeGeneratorAI/static/js/787.bb5fb9c0.chunk.js",
+    "index.html": "/MemoryCodeGeneratorAI/index.html",
+    "main.8c2e1c50.css.map": "/MemoryCodeGeneratorAI/static/css/main.8c2e1c50.css.map",
+    "main.aa8c4533.js.map": "/MemoryCodeGeneratorAI/static/js/main.aa8c4533.js.map",
+    "787.bb5fb9c0.chunk.js.map": "/MemoryCodeGeneratorAI/static/js/787.bb5fb9c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c2e1c50.css",
+    "static/js/main.aa8c4533.js"
+  ]
+}
