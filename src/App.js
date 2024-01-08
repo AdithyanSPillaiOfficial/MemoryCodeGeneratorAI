@@ -46,6 +46,7 @@ function App() {
         <p>{memcode}</p>
       </div>
       }
+      <div className='footerdiv'>Developed By <a href="https://www.instagram.com/adithyan_s_.pillai/" className='atag'>Adithyan S Pillai</a></div>
     </div>
   );
 }
